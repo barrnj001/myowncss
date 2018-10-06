@@ -1,0 +1,21 @@
+body {
+    background: magenta;
+}
+
+.thing{
+    width: 4em;
+    height: 4em;
+    background: purple;
+    border-radius: .5em;
+    margin: 1em;
+}
+
+#box{
+    min-height: 20em;
+    background: yellow;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
